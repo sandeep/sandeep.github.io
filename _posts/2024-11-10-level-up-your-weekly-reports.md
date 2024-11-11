@@ -15,28 +15,32 @@ ads: false
 crosspost_to_medium: true
 ---
 
-This post is a follow on to "[Writing crisp weekly reports](/2019-01-22-Weekly-Status-Reports)". Feel free to check that out if you haven't already.  
+Level up your weekly updates! 
 
-Level up your weekly updates! 🚀 Imagine comms that don't just inform, they *inspire*.  Where every word sparks action and every message hits the mark.  Ready to ditch the fluff and make some magic? ✨
+🚀 Imagine comms that don't just inform, they *inspire*.  Where every word sparks action and every message hits the mark.  Ready to ditch the fluff and make some magic? ✨ _BTW - This is a follow on to "[Writing crisp weekly reports](/2019/01/22/Weekly-Status-Reports)"._
 
-As a product manager, your communication needs to be 💯.  Why? To keep everyone aligned 🤝, drive product development 🛠️, and build trust and transparency 💎.  But no one wants to wade through a dense, jargon-filled newsletter 😴, self congratulatory tomes or a list of 🚦🚦🚦 updates which don't convey potential risks.  
+As a product or program manager, your communication needs to be 💯.  Why? To keep everyone aligned 🤝, drive product development 🛠️, and build trust and transparency 💎 and get you the support you need from your team and leadership.  
 
-Here's how to write 🔥 updates that communicate project status crisply, lead to action and drive the results you want:
+No one wants to wade through a dense, jargon-filled newsletter 😴, self congratulatory tomes or a list of 🚦🚦🚦 red-green-yellow updates which don't communicate project risks that you might need help with.  
 
-**1. Outcomes Over Output**
+Here are three simple tips on how to write 🔥 updates that communicate project status crisply, lead to action and drive the results you want:
 
-Stop telling us what you're *doing*; tell us what you've *achieved*. Instead of "I had a meeting with XYZ on Wednesday," try "We secured stakeholder buy-in for Feature X." 👍  Focus on what you've *achieved*, not just what you're *doing*.
+## 1. Focus on Outcomes over output
 
-**2. Facts Beat Fiction**
+You may remember Show vs Tell from your writing classes - It's the same principle. Stop telling us what you're *doing*; tell us what you've *achieved*. Instead of "I had a meeting with XYZ on Wednesday," try "We secured stakeholder buy-in for Feature X." 👍  **Focus on what you and your team have *achieved*, not just what you're *doing*.**
 
-"Greatly improved" and "huge opportunity" sound impressive, but they're subjective and ultimately meaningless unless we all agree on what those words really mean. Use concrete data and get everyone aligned. Instead of "We saw a huge increase in user engagement," try "User engagement increased by 15% this week." 📈 Numbers speak louder than words!
+## 2. Use Facts to beat fiction
 
-**3. Action Items over Ambiguity** 
+"Greatly improved" and "huge opportunity" sound impressive, but they're subjective and ultimately unclear as reasonable people could read those words and disagree and what is and what is not "huge". **Use concrete data and get everyone aligned.** 
 
-If you need some action taken, be crystal clear about who's responsible and when it's due. Instead of "We'll discuss next steps" 🤷‍♀️,  give clear action items: "John will finalize the design spec by EOD Friday." 📝  Ensure everyone knows what needs to happen and who's responsible.
+Instead of "We saw a large increase in user engagement," try "User engagement increased by 15% this week." 📈 Numbers speak louder than words!
+
+## 3. Convey clear Action Items that crush ambiguity
+
+If you need action to be taken, be crystal clear about who's responsible and when it's due. Instead of "We'll discuss next steps" 🤷‍♀️,  give clear action items: "John will finalize the design spec by EOD Friday." 📝  **Ensure everyone knows what needs to happen and who's responsible.**
 
 
-By following these simple tips, you can transform your product updates from dreaded time-wasters into valuable communication tools that level up your reports and products. ✨
+By following these three simple tips, you can transform your product updates from dreaded time-wasters into valuable communication tools that level up your reports and products. ✨
 
 
 _Note: This post was dictated to, edit with and handcrafted with ❤️ using [Gemini](http://gemini.google.com)_
