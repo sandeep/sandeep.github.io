@@ -33,17 +33,17 @@ _BTW - This is a follow on to "[Writing crisp weekly reports](/2019/01/22/Weekly
 
 Here is how to write 🔥 updates that communicate project status crisply, lead to action and drive the results you want:
 
-## 1. Focus on Outcomes over output
+## 1. Focus on **Outcomes** over output
 
 You may remember Show vs Tell from your writing classes - It's the same principle. Stop telling us what you're *doing*; tell us what you've *achieved*. Instead of "I had a meeting with XYZ on Wednesday," try "We secured stakeholder buy-in for Feature X." 👍  **Focus on what you and your team have *achieved*, not just what you're *doing*.**
 
-## 2. Use Facts to beat fiction
+## 2. Use **Facts** to beat fiction
 
 "Greatly improved" and "huge opportunity" sound impressive, but they're subjective and ultimately unclear as reasonable people could read those words and disagree and what is and what is not "huge". **Use concrete data and get everyone aligned.** 
 
 Instead of "We saw a large increase in user engagement," try "User engagement increased by 15% this week." 📈 Numbers speak louder than words!
 
-## 3. Convey clear Action Items that crush ambiguity
+## 3. Convey clear *Action Items* that crush ambiguity
 
 If you need action to be taken, be crystal clear about who's responsible and when it's due. Instead of "We'll discuss next steps" 🤷‍♀️,  give clear action items: "John will finalize the design spec by EOD Friday." 📝  **Ensure everyone knows what needs to happen and who's responsible.**
 
@@ -51,4 +51,4 @@ If you need action to be taken, be crystal clear about who's responsible and whe
 By following these three simple tips, you can transform your product updates from dreaded time-wasters into valuable communication tools that level up your reports and products. ✨
 
 
-_Note: This post was dictated to, edit with and handcrafted with ❤️ using [Gemini](http://gemini.google.com)_
+_Note: This post was dictated to, edited with and ❤️ingly hand crafted using [Gemini](http://gemini.google.com)_
