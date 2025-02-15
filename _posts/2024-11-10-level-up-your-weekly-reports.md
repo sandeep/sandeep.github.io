@@ -51,4 +51,4 @@ If you need action to be taken, be crystal clear about who's responsible and whe
 By following these three simple tips, you can transform your product updates from dreaded time-wasters into valuable communication tools that level up your reports and products. ✨
 
 
-_Note: This post was dictated to, edited with and ❤️ingly hand crafted using [Gemini](http://gemini.google.com)_
+_This post was hand crafted with ❤️ using AI_

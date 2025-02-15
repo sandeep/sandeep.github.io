@@ -10,6 +10,7 @@ The contents of the following directories maybe copyrighted by their original ow
 
 * _posts/
 * images/
+* _data/
 
 All other directories and files are MIT Licensed. Feel free to clone or fork the structure and the CSS.
 If you'd like to give me credit somewhere on your blog or tweet a shout out to [@_sandeep_](https://twitter.com/_sandeep), that would be pretty sweet.
